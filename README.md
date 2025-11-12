@@ -4,7 +4,7 @@
 
 # 🧍‍♂️🧍‍♀️ Shopping Mall / Lift People Counter using YOLOv8
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-orange?logo=yolo&logoColor=white" alt="YOLOv8" />
   <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv&logoColor=white" alt="OpenCV" />
