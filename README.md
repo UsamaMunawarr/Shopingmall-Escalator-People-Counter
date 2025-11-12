@@ -13,7 +13,7 @@
 
 ---
 
-![Demo](demo.gif)
+![Demo](demo.gif)  
 *A live demo showcasing real-time people detection and counting using YOLOv8.*
 
 ---
